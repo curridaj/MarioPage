@@ -88,8 +88,8 @@ article{
     margin-bottom: 4px;
 }
 body{
-    background-image:url(background.jfif);
-     background-attachment: fixed;
-     background-size: cover;
-     background-repeat: no-repeat;
+     background-image:url("background.jpg");
+     background-attachment:fixed;
+     background-size:cover;
+     background-repeat:no-repeat;
 }
